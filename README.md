@@ -7,6 +7,11 @@ I like to think my projects are great, take a look at my recent works:
 - [Vibillow](https://github.com/tchristenson/SoundCloud-Clone) :headphones:
 - [AyyBnE](https://github.com/anwersaad0/API-Project) :house_with_garden:
 
+
+
+#### Feel free to contact me using my email: anwer.saad0@gmail.com
+#### [LinkedIn Profile](https://www.linkedin.com/in/saad-anwer-01aab317a/)
+
 <!--
 **anwersaad0/anwersaad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
