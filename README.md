@@ -1,6 +1,6 @@
 ## Hi there, my name is Saad Anwer 👋
 
-I am a full-stack software engineer with a passion for making things work and further expanding my knowledge and craft.
+I am a full-stack software engineer with a passion for making intuitive and structured applications while further expanding my knowledge and craft.
 
 I like to think my projects are great, take a look at my recent works:
 - [Deck's Hobbies](https://github.com/anwersaad0/Etsy-Clone) :flower_playing_cards:
