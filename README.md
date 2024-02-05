@@ -2,10 +2,10 @@
 
 I am a full-stack software engineer with a passion for making intuitive and structured applications while further expanding my knowledge and craft.
 
-I like to think my projects are great, take a look at what I have been working on:
+Feel free to take a look at what I have worked on lately:
+- [DevPair](https://github.com/itsmingyoo/hackathon-pair-programming) :busts_in_silhouette:
 - [Deck's Hobbies](https://github.com/anwersaad0/Etsy-Clone) :flower_playing_cards:
 - [Vibillow](https://github.com/tchristenson/SoundCloud-Clone) :headphones:
-- [AyyBnE](https://github.com/anwersaad0/API-Project) :house_with_garden:
 
 
 #### Feel free to contact me using my email: anwer.saad0@gmail.com
