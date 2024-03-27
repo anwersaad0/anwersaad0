@@ -1,8 +1,9 @@
-## Hi there, my name is Saad Anwer 👋
+# Hi there, my name is Saad Anwer 👋
 
-I am a full-stack software engineer with a passion for making intuitive and robust applications people can easily use.
+<h3 align="left">I am a full-stack software engineer with a passion for making intuitive and robust applications people can easily use.</h3>
 
-Feel free to take a look at what I have worked on lately:
+<h3 align="left">Feel free to take a look at what I have worked on lately:</h3>
+
 - [DevPair](https://github.com/itsmingyoo/hackathon-pair-programming) :busts_in_silhouette:
 - [Deck's Hobbies](https://github.com/anwersaad0/Etsy-Clone) :flower_playing_cards:
 - [Vibillow](https://github.com/tchristenson/SoundCloud-Clone) :headphones:
